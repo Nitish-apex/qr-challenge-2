@@ -15,4 +15,4 @@
 
 [For documentation markdown files](https://guides.github.com/features/mastering-markdown)
 
-[Our own small tutorial] https://github.com/pesos/members-list)
+[Our own small tutorial](https://github.com/pesos/members-list)
