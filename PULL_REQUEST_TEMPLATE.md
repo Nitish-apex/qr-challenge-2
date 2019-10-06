@@ -5,7 +5,7 @@
 - [ ] I'm sending this pr from a qr code I found 
 - [ ] My name is in the pesos members list
 
-##qr_code_uid 
+## qr_code_uid
 QR Code #<!--uid-->
 
 ## Fixes issue
