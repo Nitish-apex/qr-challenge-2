@@ -1,5 +1,5 @@
 ## practice_repo2
-#How to Contribute
+# How to Contribute
 
 1. Fork the project in GitHub
 2. Clone your forked repo locally
