@@ -3,5 +3,5 @@
 ### How to Contribute
 For contributing, please refer to ```CONTRIBUTING.md```
 
-### Contributors:
+### Winners:
 1. (Add Name Here)
