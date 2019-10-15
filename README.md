@@ -1,4 +1,4 @@
-## practice_repo2
+## qr-challenge-2
 
 ### How to Contribute
 For contributing, please refer to ```CONTRIBUTING.md```
