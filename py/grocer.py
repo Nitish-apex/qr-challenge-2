@@ -1,5 +1,5 @@
 #prices of items
-prices = {'apple': 10, 'tomato':5 'banana': 1, 'potato':5}
+prices = {'apple': 10, 'tomato':5, 'banana': 1, 'potato':5}
 
 #items purchased
 my_purchase = {
