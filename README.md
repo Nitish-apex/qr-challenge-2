@@ -4,7 +4,7 @@
 For contributing, please refer to ```CONTRIBUTING.md```
 
 ### Winners:
-1. (Add Name Here)
+1. Nitish
 
 ### Register:  
 [Hack Day](pesos.github.io/register)
